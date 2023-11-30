@@ -20,7 +20,7 @@ This is an unofficial implementation of [Frequency-Aware-Spatiotemporal-Transfor
   | :------: | :---:      | :----:    |:---:       |
   | Papers   | 0.61/0.73  | 0.65/0.78 | 0.63/0.76  |
   | Ours     | *  | * | *  |
-## <a name="reproduction_tables"></a>Reproduction Results of FAST.
+## <a name="reproduction_tables"></a>Reproduction Results of VIDNet.
   | Methods  | VI*        |  OP*      |  CP        | 
   | :------: | :---:      | :----:    |:---:       | 
   | VIDNet(IN)   | 0.59/0.70  | 0.59/0.71 | 0.57/0.69  | 

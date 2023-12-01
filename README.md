@@ -9,12 +9,12 @@ This is an unofficial implementation of [Frequency-Aware-Spatiotemporal-Transfor
   | Methods  | VI*        |  OP*      |  CP        | 
   | :------: | :---:      | :----:    |:---:       | 
   | Papers   | 0.61/0.73  | 0.65/0.78 | 0.63/0.76  | 
-  | Ours     | *  | * | *  |
+  | Ours     | 0.62/0.74  | 0.70/0.81 | 0.61/0.74  |
 
   | Methods  | VI*        |  OP       |  CP*       |
   | :------: | :---:      | :----:    |:---:       | 
   | Papers   | 0.61/0.73  | 0.65/0.78 | 0.63/0.76  |
-  | Ours     | *  | * | *  |
+  | Ours     | 0.65/0.76  | 0.43/0.56 | 0.72/0.82  |
 
   | Methods  |    VI      |  OP*      |  CP*       |
   | :------: | :---:      | :----:    |:---:       |

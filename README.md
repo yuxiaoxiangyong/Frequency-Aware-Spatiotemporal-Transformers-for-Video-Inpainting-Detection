@@ -13,12 +13,12 @@ This is an unofficial implementation of [Frequency-Aware-Spatiotemporal-Transfor
 
   | Methods  | VI*        |  OP       |  CP*       |
   | :------: | :---:      | :----:    |:---:       | 
-  | Papers   | 0.61/0.73  | 0.65/0.78 | 0.63/0.76  |
+  | Papers   | 0.57/0.68  | 0.22/0.34 | 0.76/0.83  |
   | Ours     | 0.65/0.76  | 0.43/0.56 | 0.72/0.82  |
 
   | Methods  |    VI      |  OP*      |  CP*       |
   | :------: | :---:      | :----:    |:---:       |
-  | Papers   | 0.61/0.73  | 0.65/0.78 | 0.63/0.76  |
+  | Papers   | 0.32/0.49  | 0.78/0.87 | 0.82/0.90  |
   | Ours     | *  | * | *  |
 ## <a name="reproduction_tables"></a>Reproduction Results of VIDNet.
   | Methods  | VI*        |  OP*      |  CP        | 

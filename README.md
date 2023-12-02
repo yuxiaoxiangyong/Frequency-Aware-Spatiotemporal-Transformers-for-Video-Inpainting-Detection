@@ -14,7 +14,7 @@ This is an unofficial implementation of [Frequency-Aware-Spatiotemporal-Transfor
   | Methods  | VI*        |  OP       |  CP*       |
   | :------: | :---:      | :----:    |:---:       | 
   | Papers   | 0.57/0.68  | 0.22/0.34 | 0.76/0.83  |
-  | Ours     | 0.65/0.76  | 0.43/0.56 | 0.72/0.82  |
+  | Ours     | 0.67/0.78  | 0.27/0.39 | 0.79/0.87  |
 
   | Methods  |    VI      |  OP*      |  CP*       |
   | :------: | :---:      | :----:    |:---:       |

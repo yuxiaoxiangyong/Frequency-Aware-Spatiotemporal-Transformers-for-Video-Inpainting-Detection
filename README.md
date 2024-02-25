@@ -9,7 +9,7 @@ This is an unofficial implementation of [Frequency-Aware-Spatiotemporal-Transfor
   | Methods  | VI*        |  OP*      |  CP        | 
   | :------: | :---:      | :----:    |:---:       | 
   | Papers   | 0.61/0.73  | 0.65/0.78 | 0.63/0.76  | 
-  | Ours     | 0.62/0.74  | 0.70/0.81 | 0.61/0.74  |
+  | Ours     | 0.59/0.71  | 0.64/0.75 | 0.62/0.74  |
 
   | Methods  | VI*        |  OP       |  CP*       |
   | :------: | :---:      | :----:    |:---:       | 
@@ -19,19 +19,19 @@ This is an unofficial implementation of [Frequency-Aware-Spatiotemporal-Transfor
   | Methods  |    VI      |  OP*      |  CP*       |
   | :------: | :---:      | :----:    |:---:       |
   | Papers   | 0.32/0.49  | 0.78/0.87 | 0.82/0.90  |
-  | Ours     | *  | * | *  |
+  | Ours     | 0.64/0.75  | 0.73/0.83 | 0.78/0.86  |
 ## <a name="reproduction_tables"></a>Reproduction Results of VIDNet.
   | Methods  | VI*        |  OP*      |  CP        | 
   | :------: | :---:      | :----:    |:---:       | 
   | VIDNet(IN)   | 0.59/0.70  | 0.59/0.71 | 0.57/0.69  | 
-  | Ours     | 0.59/0.71  | 0.67/0.77 | 0.53/0.66  |
+  | Ours     | 0.56/0.68  | 0.64/0.75 | 0.53/0.65  |
 
   | Methods  | VI*        |  OP       |  CP*       |
   | :------: | :---:      | :----:    |:---:       | 
-  | VIDNet   | 0.61/0.73  | 0.65/0.78 | 0.63/0.76  |
-  | Ours     | *  | * | *  |
+  | VIDNet   | 0.59/0.71  | 0.25/0.34 | 0.76/0.85  |
+  | Ours     | 0.56/0.68  | 0.27/0.37 | 0.63/0.73  |
 
   | Methods  |    VI      |  OP*      |  CP*       |
   | :------: | :---:      | :----:    |:---:       |
-  | VIDNet   | 0.61/0.73  | 0.65/0.78 | 0.63/0.76  |
-  | Ours     | *  | * | *  |
+  | VIDNet   | 0.39/0.49  | 0.74/0.82 | 0.81/0.87  |
+  | Ours     | 0.27/0.34  | 0.73/0.82 | 0.70/0.80  |
